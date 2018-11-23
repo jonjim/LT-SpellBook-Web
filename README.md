@@ -24,4 +24,4 @@ The majority of this tool uses HTML, CSS and JavaScript. Lookup functions for sk
 
 ### Download
 
-[Download the latest version here](https://github.com/jonjim/LT-CharacterCreator-Web/releases/latest)
+[Download the latest version here](https://github.com/jonjim/LT-SpellBook-Web/releases/latest)
