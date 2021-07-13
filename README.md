@@ -7,7 +7,7 @@ Features:
 * Full rulebook descriptions for each spell
 * Spell type, effect, duration and casting time
 * Valid targets for each spell
-* Compatability with Rule set v3.1.1
+* Compatability with Rule set v4.04
 
 ------
 
